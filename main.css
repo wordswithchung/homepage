@@ -9,7 +9,7 @@ body {
 }
 
 #list-of-things,
-#about-chung {
+.text-on-main-page {
   font-family: 'Open Sans', sans-serif;
   color: #5c5c5c;
 }
